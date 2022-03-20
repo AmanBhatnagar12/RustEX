@@ -1,5 +1,5 @@
 
-use std::io;
+use std::io; // use Rust IO package for input / output 
 fn main(){
 println!("Input Tensile strength =");
  
