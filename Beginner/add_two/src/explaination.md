@@ -5,7 +5,7 @@
 ### how to write a program in Rust Programming Language  to add two numbers . Input two numbers and ....
 ### Program to add two numbers in Rust 
 ```
-LETS BEGIN 😎
+                                        LETS BEGIN 😎
 ```
 
 ### **`use`** keyword is used to import certain packages as we do in every programming languages 
@@ -16,7 +16,7 @@ LETS BEGIN 😎
 ### **parse** - parses into expected Datatype
 ### **expect** -Error Handling in Rust 
 ----
-**First run the program using `cargo run` .** 🚀
+**First run the program using `cargo run` OR `rustc [programname]` .** 🚀
 ### See what happens ? 😎
 ![Rust](https://user-images.githubusercontent.com/93813737/159103064-d4314581-6355-4a03-9fc0-ba83e13c961c.png)
 ----
