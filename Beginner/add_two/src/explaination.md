@@ -1,9 +1,10 @@
 
 
 ## Add Two Numbers 
-### Namaste 🙏, Today in this program Im gonna show you 
-### how to write a program of adding two numbers in Rust Programming language .
+### Namaste 🙏, Today Im gonna show you ,
+### how to write a program in Rust Programming Language  to add two numbers . Input two numbers and ....
 ### Program to add two numbers in Rust .
+
 ### **`use`** keyword is used to import certain packages as we do in every programming languages 
 ### `print!` and `println!` are methods which are used to print something on screen . 
 ### `print!()-` is used to print the values arguments  on same line.
@@ -27,8 +28,9 @@
                  These type of errors are known as `Syntax Error` .
 ----
 ### Your task is to 
-###   Write a program to input two numbers and multiply the result .Print the multiplied Value using print! method 
+### #1.Write a program to input two numbers and multiply the result .Print the multiplied Value using print! method 
+### #2.Write a program to input two  numbers .Divide them and print the result . The numbers must be parsed into **`float`** first and then perform the operations  
 --- 
 ```
-Bye ! Catch you up next time 
+Bye ! Catch you up next time :)
 ```
